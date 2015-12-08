@@ -27,3 +27,4 @@ Metadata om referens till andra assemblies.
 5)Andra kompilering kallas JIT ,,just in time,,kompilator händer när det behövs.
 6).NET Framework fördel att den kraschar inte program under kompilering
  .Net Framework nackdel att den prestanda försämras.
+ test
