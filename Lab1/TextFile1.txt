@@ -9,4 +9,21 @@ Nämn en fördel och en nackdel med att .NET-program körs i en runtime-miljö.
 
 
 SVAR:
-1)
+1)CLR står för Common Language Runtime och den förvaltar program  exekvering vid körning av tid ,och inkludera  följande:
+-Minne ledning och skräp samling
+-Kod säkerhet verifikation
+-Kod körning,tråd ledning,och undantag hantering.
+
+2)BLC är Base Class Library är stor bibliotek som använder .Net Framework och är tillgängligt för användare att använda i användarens program.
+
+3)Att kompilera källkod betyder att ta källkod och producera den i fil som kalas assembly.
+Assembly innehåller:
+Program CIL
+Metadata om vilken typ används i program	
+Metadata om referens till andra assemblies.
+
+4)CIL betyder Common Intermediate Language.
+
+5)Andra kompilering kallas JIT ,,just in time,,kompilator händer när det behövs.
+6).NET Framework fördel att den kraschar inte under kompilering
+  .Net Framework nackdel att den kan inte köras under  kontroll av CLR som t.ex. Win32 ,C,C++DLLs
