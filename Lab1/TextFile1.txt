@@ -1,0 +1,12 @@
+﻿Repetitionsfrågor
+
+Vad står CLR för, och vad används den till?
+Vad är BCL?
+Vad innebär det att kompilera källkod?
+Den första kompileringen av källkod genererar en assembly i CIL-format. Vad står CIL för?
+Vad kallas den andra kompileringen, dvs den som tar en assembly på CIL-format och omvandlar till maskinkod? Här bör du känna till både förkortning och vad den står för. När sker denna kompilering normalt?
+Nämn en fördel och en nackdel med att .NET-program körs i en runtime-miljö.
+
+
+SVAR:
+1)
