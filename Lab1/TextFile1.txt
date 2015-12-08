@@ -25,5 +25,5 @@ Metadata om referens till andra assemblies.
 4)CIL betyder Common Intermediate Language.
 
 5)Andra kompilering kallas JIT ,,just in time,,kompilator händer när det behövs.
-6).NET Framework fördel att den kraschar inte under kompilering
-  .Net Framework nackdel att den kan inte köras under  kontroll av CLR som t.ex. Win32 ,C,C++DLLs
+6).NET Framework fördel att den kraschar inte program under kompilering
+ .Net Framework nackdel att den prestanda försämras.
